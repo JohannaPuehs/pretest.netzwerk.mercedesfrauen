@@ -1,5 +1,10 @@
-id,name,age,company,position,lAbschluss,fach,unilA,verein1,verein2,preis,nationalität
-PJB,RenataJungoBrüngger,,Mercedes,Vorstandsmitglied,
-SK,SabineKohleisen,,Mercedes,Vorstandsmitglied,
-BS,BrittaSeeger,,Mercedes,Vorstandsmitglied,
-SB,SariBaldauf,,Mercedes,Finnisch
+id,name,age,company,position,lAbschluss,fach,unilA,verein1,verein2,preis,nationalität 
+ReJuBr,RenataJungoBrüngger,1961,Mercedes,Vorstandsmitglied,Master,internationalenHandelsrechtSchwerpunktenImmaterialgüterrechtTechnologie-undInformationsrecht,Uni-Zürich,,,,Schweiz
+SaKo,SabineKohleisen,1964,Mercedes,Vorstandsmitglied,Diplom-Kauffrau,Unternehmensführung,MarketingundUnternehmens-undGesellschaftsrecht,Universität-Erlangen-Nürnberg,,,,Deutschland
+BrSe,BrittaSeeger,1969,Mercedes,Vorstandsmitglied,DiplomBetriebswirtinBA,Betriebswirtschaft,BerufsakademieinStuttgart,,Eurostars2017,,Deutschland
+SaBa,SariBaldauf,1955,Mercedes,Aufsichtsrat,Master,BusinessAdministration,HelsinkiSchoolofEconomicsandBusinessAdministration,,,,Finnisch
+NaBo,NadineBoguslawski,1977,Mercedes,Aufsichtsrat,Ausbildung,REFA-TechnikerinfürIndustrialEngineering,,IndustriegewerkschaftMetall,,,,Deutschland
+LiCe,LizCentoni,1964,Mercedes,Aufsichtsrat,Master,Chemie,UniversitätSanFrancisco,WomeninScienceandEngineering,WomeninEngineeringLeadershipForumatCisco,YWCA2015TWINAwards,Indien
+DaVeAnCo,DameVeronicaAnneCourtice,1952,Mercedes,Aufsichtsrat,Master,Geschichte,UniversitätCambridge,,,2015StanfordBrightAwardforEnvironmentalSustainability,Südafrika
+HeSv,HeleneSvahn,1974,Mercedes,Aufsichtsrat,Master,Molekularer,Biotechnologie,UniversitätUppsala,RoyalSwedishAcademyofSciences,RoyalSwedishAcademyofEngineeringSciences,TR100,Schweden
+ElToWe,ElkeTönjes-Werner,1963,Mercedes,Aufsichtsrat,Ausbildung,Näherei/Polsterei,,,,Deutschland
